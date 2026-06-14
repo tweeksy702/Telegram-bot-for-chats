@@ -18,4 +18,4 @@
 
 ## Деплой
 
-См. инструкцию в [`DEPLOY.md`](./DEPLOY.md) или README ниже.
+Cloudflare

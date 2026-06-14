@@ -1,0 +1,9 @@
+name = "telegram-bot"
+main = "src/index.js"
+compatibility_date = "2023-10-30"
+
+# ID namespace получите командой: wrangler kv:namespace create BOT_KV
+# и вставьте сюда
+[[kv_namespaces]]
+binding = "BOT_KV"
+id = "234312070ee84ccaa85f1a493c2cc870"

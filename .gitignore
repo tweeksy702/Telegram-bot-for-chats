@@ -1,0 +1,15 @@
+# Секреты Cloudflare
+.dev.vars
+.env
+.env.local
+
+# Системные файлы Windows
+Thumbs.db
+desktop.ini
+
+# Логи и мусор
+*.log
+.DS_Store
+
+# Папка node_modules (если будет)
+node_modules/
